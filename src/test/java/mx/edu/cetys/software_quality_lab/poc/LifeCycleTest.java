@@ -1,7 +1,6 @@
-package mx.edu.cetys.software.software_quality_lab.poc;
+package mx.edu.cetys.software_quality_lab.poc;
 
 
-import org.apache.juli.logging.Log;
 import org.apache.logging.log4j.Logger;
 import org.apache.logging.log4j.LogManager;
 import org.junit.jupiter.api.*;
